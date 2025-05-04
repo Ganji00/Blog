@@ -1,8 +1,8 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://ganji00.github.io/", // replace this with your deployed domain
   author: "Mateusz Kiersnowski",
   profile: "",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Personal blog of Mateusz Kiersnowski. I write about software development, technology, and my personal projects.",
   title: "Mateusz Kiersnowski",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
