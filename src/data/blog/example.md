@@ -1,20 +1,23 @@
 ---
-title: Example Draft Post
+title: Getting familiar with frontend development
 author: Mateusz Kiersnowski
 pubDatetime: 2025-05-04T10:06:31Z
-slug: example-draft-post
+slug: getting-familiar-with-frontend-development
 featured: false
-draft: true
+draft: false
 tags:
-  - Example
+  - Frontend
+  - Learning
 description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  Recently, I have been learning about frontend development.
 ---
 
-Users cannot see this post because it is in draft.
+I always thought that the frontend was not interesting. Recently I am starting to work with frontend frameworks a little bit, 
+and I found out that there is much more to it than JS, HTML, and CSS. 
 
-## Motivation
+SSR, SSG, hydration, reactivity, and many other buzzwords are now part of my vocabulary. It's interesting to find out 
+about such topics in software engineering, especially in a field I once thought was not that 
+interesting or technically challenging.
 
-rec 1
+With this blog running on Astro, I can play around with the frontend myself. Let's see how it goes and if I will 
+find it enjoyable. 
