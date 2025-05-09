@@ -1,7 +1,7 @@
 ---
 title: Getting familiar with frontend development
 author: Mateusz Kiersnowski
-pubDatetime: 2025-05-04T10:06:31Z
+pubDatetime: 2025-05-09T20:52:11Z
 slug: getting-familiar-with-frontend-development
 featured: false
 draft: false
