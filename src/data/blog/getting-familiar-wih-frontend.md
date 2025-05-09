@@ -20,4 +20,4 @@ about such topics in software engineering, especially in a field I once thought 
 interesting or technically challenging.
 
 With this blog running on Astro, I can play around with the frontend myself. Let's see how it goes and if I will 
-find it enjoyable. 
+find it enjoyable. It's my first post here, it's short and simple, but I hope to write more in the future.
