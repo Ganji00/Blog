@@ -1,7 +1,7 @@
 ---
 title: Keeping dependencies up to date with Renovate
 author: Mateusz Kiersnowski
-pubDatetime: 2025-10-21T20:52:11Z
+pubDatetime: 2025-11-15T21:58:11Z
 slug: renovate
 featured: true
 draft: false
@@ -9,8 +9,9 @@ tags:
   - Dependencies
   - DevOps
   - GitLab
+  - Renovate
 description:
-  A quick guide on how to setup Renovate on self-hosted GitLab instance.
+  A quick guide on how to setup Renovate on self-hosted GitLab instance for automatic dependency updates.
 ---
 
 # Intro
