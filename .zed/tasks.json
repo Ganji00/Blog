@@ -1,0 +1,60 @@
+[
+  {
+    "label": "dev",
+    "command": "pnpm",
+    "args": ["dev"],
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal": "always"
+  },
+  {
+    "label": "build",
+    "command": "pnpm",
+    "args": ["build"],
+    "use_new_terminal": false,
+    "reveal": "always"
+  },
+  {
+    "label": "preview",
+    "command": "pnpm",
+    "args": ["preview"],
+    "use_new_terminal": false,
+    "reveal": "always"
+  },
+  {
+    "label": "sync",
+    "command": "pnpm",
+    "args": ["sync"],
+    "reveal": "always"
+  },
+  {
+    "label": "lint",
+    "command": "pnpm",
+    "args": ["lint"],
+    "reveal": "always"
+  },
+  {
+    "label": "format",
+    "command": "pnpm",
+    "args": ["format"],
+    "reveal": "always"
+  },
+  {
+    "label": "format:check",
+    "command": "pnpm",
+    "args": ["format:check"],
+    "reveal": "always"
+  },
+  {
+    "label": "astro check",
+    "command": "pnpm",
+    "args": ["astro", "check"],
+    "reveal": "always"
+  },
+  {
+    "label": "install deps",
+    "command": "pnpm",
+    "args": ["install"],
+    "reveal": "always"
+  }
+]
